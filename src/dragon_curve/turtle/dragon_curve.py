@@ -17,3 +17,7 @@ def draw_dragon_curve_b(step_length, iterations):
         draw_dragon_curve_a(step_length, iterations - 1)
         turtle.right(90)
         draw_dragon_curve_b(step_length, iterations - 1)
+
+draw_dragon_curve_a(5, 10)
+
+turtle.done()

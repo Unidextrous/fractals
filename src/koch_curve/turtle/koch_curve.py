@@ -21,3 +21,7 @@ def draw_koch_snowflake(size, iterations, inverse=False):
             turtle.right(120)
         else:
             turtle.left(120)
+
+draw_koch_snowflake(1, 4)
+
+turtle.done()

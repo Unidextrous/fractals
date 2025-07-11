@@ -11,3 +11,7 @@ def draw_levy_c_curve(step_length, iterations):
         turtle.right(90)
         draw_levy_c_curve(step_length, iterations - 1)
         turtle.left(45)
+
+draw_levy_c_curve(1, 10)
+
+turtle.done()
