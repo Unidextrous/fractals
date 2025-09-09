@@ -12,9 +12,13 @@ This is a collection of fractal visualizations written in Python and JavaScript.
 |--------------------|-----------|------------------------------------------|
 | **Dragon Curve**   | Python + Turtle | Classic self-similar curve with 90° folds |
 | **Koch Snowflake** | Python + Turtle | Triangle-based fractal with recursive edges |
-| **Levy C Curve**   | Python + Turtle | Fractal with a zig-zag 45° pattern       |
+| **Koch Snowflake** | Python + Pygame | Koch Curve with a crystal formation-like animation |
+| **Levy C Curve**   | Python + Turtle | Fractal with a zig-zag 45° pattern |
 | **Mandelbrot Set** | Python + NumPy + Matplotlib | Complex-plane visualization with color mapping |
 | **Fractal Tree**   | JavaScript + p5.js | Interactive recursive binary tree with adjustable angle |
+| **Peano-Gosper Curve** | Python + Turtle | Hexagonal space-filling curve built from two recursive rules |
+| **Sierpinski Triangle** | Python + Turtle | L-system based recursive, self-similar triangle |
+| **Sierpinski Triangle** | Python + Pygame | Animated growth of subdivided triangles |
 
 ## Turtle Fractals
 
